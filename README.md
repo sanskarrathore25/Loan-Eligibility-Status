@@ -9,4 +9,4 @@ Project       : Loan Eligibility Status
 
 • Skills      : Statistics, EDA, Data Visualization, Machine Learning, Deep Learning, Optimization, Cross Validation
 
-• Tools       : Numpy, Pandas, Matplotlib, Seaborn, Sklearn, Keras, Tensor flow, Flask
+• Tools       : Numpy, Pandas, Matplotlib, Seaborn, Sklearn, Keras, Tensor flow, Flask.
